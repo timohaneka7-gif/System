@@ -1,0 +1,90 @@
+{
+  "headline": "HouseSystem",
+  "menu": [
+    {
+      "label": "Кино",
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "layout": "0,0,12,6",
+                "label": "Кино",
+                "action": "https://example.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "ТВ",
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "layout": "0,0,12,6",
+                "label": "ТВ",
+                "action": "https://example.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "Видео",
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "layout": "0,0,12,6",
+                "label": "Видео",
+                "action": "https://example.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "Игры",
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "layout": "0,0,12,6",
+                "label": "Игры",
+                "action": "https://example.com"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "Сайты",
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "layout": "0,0,12,6",
+                "label": "Сайты",
+                "action": "https://example.com"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
