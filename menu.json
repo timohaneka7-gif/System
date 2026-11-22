@@ -1,0 +1,55 @@
+{
+  "type": "pages",
+  "headline": "HouseSystem Lite",
+  "pages": [
+    {
+      "items": [
+        {
+          "type": "default",
+          "layout": "0,0,4,3",
+          "label": "Кино",
+          "icon": "movie",
+          "iconSize": "large",
+          "color": "#151515",
+          "action": "link:https://www.youtube.com"
+        },
+        {
+          "type": "default",
+          "layout": "4,0,4,3",
+          "label": "ТВ",
+          "icon": "tv",
+          "iconSize": "large",
+          "color": "#151515",
+          "action": "link:https://www.youtube.com"
+        },
+        {
+          "type": "default",
+          "layout": "8,0,4,3",
+          "label": "Видео",
+          "icon": "play",
+          "iconSize": "large",
+          "color": "#151515",
+          "action": "link:https://www.youtube.com"
+        },
+        {
+          "type": "default",
+          "layout": "2,3,4,3",
+          "label": "Игры",
+          "icon": "gamepad",
+          "iconSize": "large",
+          "color": "#151515",
+          "action": "info:Раздел игр — скоро!"
+        },
+        {
+          "type": "default",
+          "layout": "6,3,4,3",
+          "label": "Сайты",
+          "icon": "globe",
+          "iconSize": "large",
+          "color": "#151515",
+          "action": "link:https://www.google.com"
+        }
+      ]
+    }
+  ]
+}
